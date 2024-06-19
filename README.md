@@ -8,7 +8,12 @@
 
 # Preview
 
-![Alt Text](images/image1.PNG)
+* List of custom patterns for analysis u can edit here is set for SQLlite3 databases.
+  
+![Alt Text](images/image.PNG)
+* Output the offset and the lenght (u can use tools like volatility to extract those)
+
+![Alt Text](images/image2.PNG)
 
 # Feature
 
